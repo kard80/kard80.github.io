@@ -1,0 +1,31 @@
+body {
+    background-color: #FADDE1;
+    font-size: 24px;
+}
+
+
+
+#final {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#yes-button {
+    background-color: greenyellow;
+    border-color: white;
+    width: 72px;
+    height: 24px;
+    max-width: 100vw;
+    font-weight: bold;
+}
+
+#no-button {
+    color: red;
+}
