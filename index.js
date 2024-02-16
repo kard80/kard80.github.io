@@ -2,7 +2,7 @@ let count = 0;
 const wordArr = ['Yes, pls', 'Absolutely Yes', 'Yes Yes Yes']
 // default w:72, h:24, fontSize: 24
 const buttonStyle = [{
-    width: '128px',
+    width: '180px',
     height: '36px',
     fontSize: '24px'
     
